@@ -1,0 +1,2 @@
+# universaladapter
+这是一个RecyclerView的通用适配器
